@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\Users\wagner.santana\Desktop\GIT\Curso_Alura\Hibernate\.metadata\.plugins\org.eclipse.jdt.core
+1511219266.index
+1938818857.index
+224197787.index
+2482358639.index
+278783855.index
+1738639453.index
+3594633769.index
+1527545436.index
+3919608719.index
+3623751664.index
+1973155725.index
+1583763555.index
+3190354306.index
+3581756814.index
+3929483471.index
+441880171.index
+4218122801.index
+2967882301.index
+182702883.index
+3842030974.index
+4093013805.index
+2887631762.index
